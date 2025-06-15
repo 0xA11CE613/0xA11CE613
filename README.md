@@ -1,5 +1,5 @@
 <p>
-  <a align="left" href="https://github.com/prabhatKrMishra">
+  <a align="left" href="https://github.com/0xA11CE613">
     <h1>Prabhat Kumar Mishra</h1>
   </a>
 </p>
@@ -43,7 +43,7 @@ const prabhat = {
   &#x270C; Popularity
 </h2>
 <span>
-  <img src="https://camo.githubusercontent.com/5f865d82b7324e88dd870f0a4539e86a9c516fdc52da5c0612ec61805bcdc742/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d706b6d373734267374796c653d666c61742d737175617265" alt="pkm774" width="220" height="40" />
+  <img src="https://camo.githubusercontent.com/5f865d82b7324e88dd870f0a4539e86a9c516fdc52da5c0612ec61805bcdc742/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d706b6d373734267374796c653d666c61742d737175617265" alt="0xA11CE613" width="220" height="40" />
 </span>
 </p>
 
@@ -51,8 +51,8 @@ const prabhat = {
 <h2 align="left">
   &#x1f4c8; Github Stats
 </h2>
-<a href="https://github.com/prabhatKrMishra/prabhatKrMishra">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhatKrMishra&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Prabhat's GitHub Stats" />
+<a href="https://github.com/0xA11CE613/0xA11CE613">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xA11CE613&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Prabhat's GitHub Stats" />
 </a>
 </p>
 
@@ -61,11 +61,11 @@ const prabhat = {
   &#x1F31F; Top Repositories
 </h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prabhatKrMishra&repo=SparkNest&theme=merko)](https://github.com/prabhatKrMishra/SparkNest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xA11CE613&repo=SparkNest&theme=merko)](https://github.com/0xA11CE613/SparkNest)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prabhatKrMishra&repo=Blog-Mania&theme=merko)](https://github.com/prabhatKrMishra/Blog-Mania)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xA11CE613&repo=Blog-Mania&theme=merko)](https://github.com/0xA11CE613/Blog-Mania)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prabhatKrMishra&repo=DBank&theme=merko)](https://github.com/prabhatKrMishra/DBank)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xA11CE613&repo=DBank&theme=merko)](https://github.com/0xA11CE613/DBank)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prabhatKrMishra&repo=android-kernel-tools&theme=merko)](https://github.com/prabhatKrMishra/android-kernel-tools)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xA11CE613&repo=android-kernel-tools&theme=merko)](https://github.com/0xA11CE613/android-kernel-tools)
 </p>
