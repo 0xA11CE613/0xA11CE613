@@ -63,7 +63,7 @@ const prabhat = {
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xA11CE613&repo=SparkNest&theme=merko)](https://github.com/0xA11CE613/SparkNest)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xA11CE613&repo=Blog-Mania&theme=merko)](https://github.com/0xA11CE613/Blog-Mania)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xA11CE613&repo=Blogging-Mania&theme=merko)](https://github.com/0xA11CE613/Blogging-Mania)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=0xA11CE613&repo=DBank&theme=merko)](https://github.com/0xA11CE613/DBank)
 
